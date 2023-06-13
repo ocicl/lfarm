@@ -1,0 +1,10 @@
+* lfarm
+
+Distribute work across machines using the lparallel API.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lmj/lfarm.git   |
+| commit  | f7ba49f  |
+| systems | lfarm |
+|---------+-------------------------------------------|
+
