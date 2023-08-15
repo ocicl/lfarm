@@ -2,9 +2,8 @@
 
 Distribute work across machines using the lparallel API.
 
-|---------+--------------------------------------|
-| source  | git:https://github.com/lmj/lfarm.git |
-| commit  | f7ba49f                              |
-| systems | (lfarm-ssl lfarm-server lfarm-launcher lfarm-gss lfarm-common lfarm-client
- lfarm-admin) |
-|---------+--------------------------------------|
+|---------+---------------------------------------------------------------------------------------|
+| source  | git:https://github.com/lmj/lfarm.git                                                  |
+| commit  | f7ba49f                                                                               |
+| systems | lfarm-ssl lfarm-server lfarm-launcher lfarm-gss lfarm-common lfarm-client lfarm-admin |
+|---------+---------------------------------------------------------------------------------------|
